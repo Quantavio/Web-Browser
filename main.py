@@ -10,7 +10,7 @@ class MyWebBrowser(QMainWindow):
     def __init__(self):
 
         self.window = QWidget()
-        self.window.setWindowTitle("Incognito")
+        self.window.setWindowTitle("Test Browser")
 
 
         self.layout = QVBoxLayout()
